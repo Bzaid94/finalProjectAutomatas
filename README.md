@@ -12,7 +12,7 @@ Este proyecto permite al usuario ingresar una tabla de transiciones para un aut�
 ## Instalación
 1. Clone el repositorio a su máquina local.
 
-2. (Opcional) Si aún no tiene instaladas las dependencias, puede unicamente descargar el ejecutable dentro de la carpeta dist (Uso para Windows).
+2. (Opcional) Si aún no tiene instaladas las dependencias, puede unicamente descargar el ejecutable dentro de la carpeta dist (Uso para MacOS).
 
 
 ## Uso
