@@ -21,7 +21,10 @@ Este proyecto permite al usuario ingresar una tabla de transiciones para un aut√
 2. Siga las instrucciones en pantalla para interactuar con el programa.
 
 ## Capturas de pantalla
-(Agregar algunas capturas de pantalla del programa en funcionamiento)
+![image](https://github.com/Bzaid94/finalProjectAutomatas/assets/39250382/e360722a-c70c-4f67-a6d6-410ce5bdc908)
+![image](https://github.com/Bzaid94/finalProjectAutomatas/assets/39250382/92c50c0c-8719-4816-b6c2-b1d0892e923b)
+![image](https://github.com/Bzaid94/finalProjectAutomatas/assets/39250382/daa80f3c-5dbc-4591-83ea-3c0a62dba665)
+
 
 ## Dependencias
 - `matplotlib`
